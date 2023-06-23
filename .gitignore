@@ -1,0 +1,8 @@
+.DS_Store
+venv
+.pytest_cache/
+flask_session_data/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
